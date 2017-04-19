@@ -15,7 +15,7 @@ public class TrocarSenha {
 				+ "e você poderá manter a mesma senha. Vamos lá?! =D");
 
 		System.out.println(
-				"\nAntes de tudo, recomendo que você logue em seu navegador chrome e autentique o seu usuário de rede.");
+				"\nAntes de tudo, recomendo que você incialize seu navegador chrome e autentique o seu usuário de rede.");
 
 		// leitura de entrada de dados
 		Scanner tec = new Scanner(System.in);
